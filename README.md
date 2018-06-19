@@ -1,6 +1,4 @@
-# leak_compensation
-Code supplement to the paper 
-
+# Leak_compensation
 
 This repository contains the code used for data processing, statistical analysis and visualization described in the following paper: **"Leak Compensation During Volume Guarantee With the Dräger Babylog VN500 Neonatal Ventilator"** *Pediatric Critical Care Medicine*, accepted for publication.
 
