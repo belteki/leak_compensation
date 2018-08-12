@@ -1,6 +1,6 @@
 # Leak compensation
 
-This repository contains the code used for data processing, statistical analysis and visualization described in the following paper: **"Leak Compensation During Volume Guarantee With the Dräger Babylog VN500 Neonatal Ventilator"** *Pediatric Critical Care Medicine*, accepted for publication.
+This repository contains the code used for data processing, statistical analysis and visualization described in the following paper: **"Leak Compensation During Volume Guarantee With the Dräger Babylog VN500 Neonatal Ventilator"** *Pediatric Critical Care Medicine*, ediatr Crit Care Med. 2018 Jun 21. doi: 10.1097/PCC.0000000000001638..
 
 Authors: Eniko Szakmar MD, Colin Morley MD, FRCPCH, Gusztav Belteki MD, PhD, FRCPCH, 
 
@@ -24,7 +24,7 @@ SciPy version: 0.19.0
 
 I recommend downloading these packages using the freely availably Anaconda built: https://www.continuum.io/downloads
 
-The Notebook also depends on the supplied helper files which should be in the same directory as Alarms_GitHub.ipynb
+The Notebook also depends on the supplied helper files which should be in the same directory as the .ipynb notebook files
 
 gb_loader.py
 
